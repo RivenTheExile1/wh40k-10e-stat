@@ -44,7 +44,7 @@ Slugga = {
   "D":1
 }  
 Ork_Nob = {
-  "Pts : 14,
+  "Pts" : 14,
   "T" : 5,
   "AS" : 5,
   "W" : 2,
